@@ -29,8 +29,9 @@ const Calculadora = () => {
       margin: 10,
       borderWidth: 1,
       padding: 10,
-      borderColor: 'gray',
+      borderColor: 'blue',
       borderWidth: 3,
+      backgroundColor:"white"
     },
   });
 
